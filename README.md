@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Cal AI Clone</h1>
+<h1 align="center"> Cal AI </h1>
 
 
 ✨ **Highlights:**
